@@ -7,13 +7,11 @@ Designed for Ubuntu, shouldn't be too hard to get working on any other Linux Dis
 This repo uses a modified version of [this](https://github.com/vinay20045/json-to-csv) script to convert the json to csv.
 
 ## Install
-
 ```
  ./install.sh
 ```
 
 ## Download JSON data
-
 ```
  ./grab.sh
 ```
@@ -22,4 +20,9 @@ This repo uses a modified version of [this](https://github.com/vinay20045/json-t
 
 ```
  ./convert.sh
+```
+
+## Download Icons
+```
+ ./icons.sh
 ```
