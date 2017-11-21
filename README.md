@@ -1,6 +1,6 @@
 # CHDS
-[coinmarketcap.com](https://coinmarketcap.com)
- historical data Scraper
+[Coinmarketcap.com](https://coinmarketcap.com)
+ Historical Data Scraper
 
 Designed for Ubuntu, shouldn't be too hard to get working on any other Linux Distro.
 
