@@ -7,13 +7,19 @@ Designed for Ubuntu, shouldn't be too hard to get working on any other Linux Dis
 This repo uses a modified version of [this](https://github.com/vinay20045/json-to-csv) script to convert the json to csv.
 
 ## Install
-  
-  ./install.sh
-  
+
+```
+ ./install.sh
+```
+
 ## Download JSON data
-  
-  ./grab.sh
+
+```
+ ./grab.sh
+```
 
 ## Convert the JSON files into CSV files
-  
-  ./convert.sh
+
+```
+ ./convert.sh
+```
