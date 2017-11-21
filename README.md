@@ -1,7 +1,7 @@
 # CHDS
 Coinmarketcap historical data Scraper
 
-Designed for Ubuntu, shouldn't be too hard to get working on any other distro.
+Designed for Ubuntu, shouldn't be too hard to get working on any other Linux Distro.
 
 ## Install
   
